@@ -1,3 +1,8 @@
+/*
+Miranda Sandoval Mario Alberto 
+3CM7.
+*/
+
 %{
 #include <stdio.h>
 #include <math.h>

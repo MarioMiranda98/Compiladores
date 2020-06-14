@@ -1,3 +1,7 @@
+/*
+Miranda Sandoval Mario Alberto 
+3CM7.
+*/
 #include "vector_cal.h"
 #include "y.tab.h"
 #include <math.h>

@@ -1,3 +1,7 @@
+/*
+Miranda Sandoval Mario Alberto 
+3CM7.
+*/
 #include<stdio.h>
 struct vector {
 	char name;
